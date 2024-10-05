@@ -1,0 +1,13 @@
+.About{
+    background-color: rgb(195, 202, 209);
+}
+
+.Total {
+    display: flex;
+    justify-content: space-between;
+}
+
+.About h3 {
+    text-align: center;
+    font-size: 32px; 
+}
